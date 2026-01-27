@@ -1,0 +1,2 @@
+root_dir: "e:/PYTHON/yahoo-prediction-project"
+DATA_DIR: "src/yahoo_price_forecasting/data/yahoo_data.xlsx"
